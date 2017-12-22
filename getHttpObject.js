@@ -17,7 +17,7 @@ function getHttpObject(){
                 }
             }
 
-            // 不支持ajax的浏览器
+            // 不支持Ajax的浏览器
             return false;
         }
     }
